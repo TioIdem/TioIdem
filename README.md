@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Howdy/Olá👋
+- 🎩 - Eu sou o Idem
+- 👓 - Atualmente faço bots em aoi.js
+- 😊- Pronomes: Ele/Dele
 <!--
 **TioIdem/TioIdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
